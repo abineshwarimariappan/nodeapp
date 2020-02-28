@@ -1,0 +1,28 @@
+h1
+{
+	background-color: orange;
+	color: blue;
+}
+
+.searchbox{
+	background-color: lightgreen;
+	color: black;
+	padding: 10px;
+	margin: 10px;
+	width: 90%;
+}
+
+th,td{
+	width: 150px;
+	height: 30px;
+	padding: 5px
+}
+th{
+	background-color: green;
+	color: lightgreen;
+}
+
+td{
+	background-color: lightgreen;
+	color: green;
+}
